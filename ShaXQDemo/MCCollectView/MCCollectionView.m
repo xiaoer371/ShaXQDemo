@@ -42,14 +42,14 @@ const static  CGFloat  xCellRowNumber = 5.0;
     return self;
 }
 
--(void)setOriginPoint:(CGPoint)originPoint
-{
-    _originPoint = originPoint;
-    CGRect rect = self.frame;
-    rect.origin.x = originPoint.x;
-    rect.origin.y = originPoint.y;
-    self.frame = rect;
-}
+//-(void)setOriginPoint:(CGPoint)originPoint
+//{
+//    _originPoint = originPoint;
+//    CGRect rect = self.frame;
+//    rect.origin.x = originPoint.x;
+//    rect.origin.y = originPoint.y;
+//    self.frame = rect;
+//}
 
 -(UICollectionView *)collectView
 {

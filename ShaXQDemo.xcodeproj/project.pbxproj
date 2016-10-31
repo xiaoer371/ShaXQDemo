@@ -21,6 +21,24 @@
 		492DC9B51C844E90005F4104 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 492DC9B31C844E90005F4104 /* Main.storyboard */; };
 		492DC9B71C844E90005F4104 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 492DC9B61C844E90005F4104 /* Assets.xcassets */; };
 		492DC9BA1C844E90005F4104 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 492DC9B81C844E90005F4104 /* LaunchScreen.storyboard */; };
+		497048BA1DC73D08006B603E /* 22222.png in Resources */ = {isa = PBXBuildFile; fileRef = 497048B81DC73D08006B603E /* 22222.png */; };
+		497048BB1DC73D08006B603E /* 333.png in Resources */ = {isa = PBXBuildFile; fileRef = 497048B91DC73D08006B603E /* 333.png */; };
+		49A58CFC1C8D2ED700082557 /* RegExCategories.m in Sources */ = {isa = PBXBuildFile; fileRef = 49A58CF91C8D2ED700082557 /* RegExCategories.m */; };
+		49A58CFD1C8D2ED700082557 /* TYTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 49A58CFB1C8D2ED700082557 /* TYTableViewCell.m */; };
+		49A58D001C8D46EF00082557 /* MCShapeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 49A58CFF1C8D46EF00082557 /* MCShapeView.m */; };
+		49B97FB71C87E5E300264BED /* NSMutableAttributedString+TY.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B97FA41C87E5E300264BED /* NSMutableAttributedString+TY.m */; };
+		49B97FB81C87E5E300264BED /* TYAttributedLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B97FA61C87E5E300264BED /* TYAttributedLabel.m */; };
+		49B97FB91C87E5E300264BED /* TYDrawStorage.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B97FA81C87E5E300264BED /* TYDrawStorage.m */; };
+		49B97FBA1C87E5E300264BED /* TYImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B97FAA1C87E5E300264BED /* TYImageCache.m */; };
+		49B97FBB1C87E5E300264BED /* TYImageStorage.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B97FAC1C87E5E300264BED /* TYImageStorage.m */; };
+		49B97FBC1C87E5E300264BED /* TYLinkTextStorage.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B97FAE1C87E5E300264BED /* TYLinkTextStorage.m */; };
+		49B97FBD1C87E5E300264BED /* TYTextContainer+Extended.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B97FAF1C87E5E300264BED /* TYTextContainer+Extended.m */; };
+		49B97FBE1C87E5E300264BED /* TYTextContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B97FB11C87E5E300264BED /* TYTextContainer.m */; };
+		49B97FBF1C87E5E300264BED /* TYTextStorage.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B97FB31C87E5E300264BED /* TYTextStorage.m */; };
+		49B97FC01C87E5E300264BED /* TYViewStorage.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B97FB61C87E5E300264BED /* TYViewStorage.m */; };
+		49B97FCB1C880FAD00264BED /* emoji_003.png in Resources */ = {isa = PBXBuildFile; fileRef = 49B97FCA1C880FAD00264BED /* emoji_003.png */; };
+		49B97FCE1C881D5E00264BED /* emoji_001.png in Resources */ = {isa = PBXBuildFile; fileRef = 49B97FCC1C881D5E00264BED /* emoji_001.png */; };
+		49B97FCF1C881D5E00264BED /* emoji_002.png in Resources */ = {isa = PBXBuildFile; fileRef = 49B97FCD1C881D5E00264BED /* emoji_002.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +63,37 @@
 		492DC9B61C844E90005F4104 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		492DC9B91C844E90005F4104 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		492DC9BB1C844E90005F4104 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		497048B81DC73D08006B603E /* 22222.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 22222.png; sourceTree = "<group>"; };
+		497048B91DC73D08006B603E /* 333.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 333.png; sourceTree = "<group>"; };
+		49A58CF81C8D2ED700082557 /* RegExCategories.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegExCategories.h; sourceTree = "<group>"; };
+		49A58CF91C8D2ED700082557 /* RegExCategories.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegExCategories.m; sourceTree = "<group>"; };
+		49A58CFA1C8D2ED700082557 /* TYTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TYTableViewCell.h; sourceTree = "<group>"; };
+		49A58CFB1C8D2ED700082557 /* TYTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TYTableViewCell.m; sourceTree = "<group>"; };
+		49A58CFE1C8D46EF00082557 /* MCShapeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MCShapeView.h; sourceTree = "<group>"; };
+		49A58CFF1C8D46EF00082557 /* MCShapeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MCShapeView.m; sourceTree = "<group>"; };
+		49B97FA31C87E5E300264BED /* NSMutableAttributedString+TY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableAttributedString+TY.h"; sourceTree = "<group>"; };
+		49B97FA41C87E5E300264BED /* NSMutableAttributedString+TY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableAttributedString+TY.m"; sourceTree = "<group>"; };
+		49B97FA51C87E5E300264BED /* TYAttributedLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TYAttributedLabel.h; sourceTree = "<group>"; };
+		49B97FA61C87E5E300264BED /* TYAttributedLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TYAttributedLabel.m; sourceTree = "<group>"; };
+		49B97FA71C87E5E300264BED /* TYDrawStorage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TYDrawStorage.h; sourceTree = "<group>"; };
+		49B97FA81C87E5E300264BED /* TYDrawStorage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TYDrawStorage.m; sourceTree = "<group>"; };
+		49B97FA91C87E5E300264BED /* TYImageCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TYImageCache.h; sourceTree = "<group>"; };
+		49B97FAA1C87E5E300264BED /* TYImageCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TYImageCache.m; sourceTree = "<group>"; };
+		49B97FAB1C87E5E300264BED /* TYImageStorage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TYImageStorage.h; sourceTree = "<group>"; };
+		49B97FAC1C87E5E300264BED /* TYImageStorage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TYImageStorage.m; sourceTree = "<group>"; };
+		49B97FAD1C87E5E300264BED /* TYLinkTextStorage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TYLinkTextStorage.h; sourceTree = "<group>"; };
+		49B97FAE1C87E5E300264BED /* TYLinkTextStorage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TYLinkTextStorage.m; sourceTree = "<group>"; };
+		49B97FAF1C87E5E300264BED /* TYTextContainer+Extended.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "TYTextContainer+Extended.m"; sourceTree = "<group>"; };
+		49B97FB01C87E5E300264BED /* TYTextContainer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TYTextContainer.h; sourceTree = "<group>"; };
+		49B97FB11C87E5E300264BED /* TYTextContainer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TYTextContainer.m; sourceTree = "<group>"; };
+		49B97FB21C87E5E300264BED /* TYTextStorage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TYTextStorage.h; sourceTree = "<group>"; };
+		49B97FB31C87E5E300264BED /* TYTextStorage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TYTextStorage.m; sourceTree = "<group>"; };
+		49B97FB41C87E5E300264BED /* TYTextStorageProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TYTextStorageProtocol.h; sourceTree = "<group>"; };
+		49B97FB51C87E5E300264BED /* TYViewStorage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TYViewStorage.h; sourceTree = "<group>"; };
+		49B97FB61C87E5E300264BED /* TYViewStorage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TYViewStorage.m; sourceTree = "<group>"; };
+		49B97FCA1C880FAD00264BED /* emoji_003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = emoji_003.png; sourceTree = "<group>"; };
+		49B97FCC1C881D5E00264BED /* emoji_001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = emoji_001.png; sourceTree = "<group>"; };
+		49B97FCD1C881D5E00264BED /* emoji_002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = emoji_002.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +110,11 @@
 		4929649D1C85785A0023CFDE /* images */ = {
 			isa = PBXGroup;
 			children = (
+				497048B81DC73D08006B603E /* 22222.png */,
+				497048B91DC73D08006B603E /* 333.png */,
+				49B97FCC1C881D5E00264BED /* emoji_001.png */,
+				49B97FCD1C881D5E00264BED /* emoji_002.png */,
+				49B97FCA1C880FAD00264BED /* emoji_003.png */,
 				4929649E1C85785A0023CFDE /* add@2x.png */,
 				4929649F1C85785A0023CFDE /* delete@2x.png */,
 				492964A01C85785A0023CFDE /* delMini@2x.png */,
@@ -110,11 +164,15 @@
 		492DC9A91C844E90005F4104 /* ShaXQDemo */ = {
 			isa = PBXGroup;
 			children = (
+				49A58CF71C8D2ED700082557 /* emojiTableView */,
+				49B97FA21C87E5E300264BED /* TYAttributedLabel */,
 				492964A31C85785A0023CFDE /* MCCollectView */,
 				492DC9AD1C844E90005F4104 /* AppDelegate.h */,
 				492DC9AE1C844E90005F4104 /* AppDelegate.m */,
 				492DC9B01C844E90005F4104 /* ViewController.h */,
 				492DC9B11C844E90005F4104 /* ViewController.m */,
+				49A58CFE1C8D46EF00082557 /* MCShapeView.h */,
+				49A58CFF1C8D46EF00082557 /* MCShapeView.m */,
 				4929649D1C85785A0023CFDE /* images */,
 				492DC9B31C844E90005F4104 /* Main.storyboard */,
 				492DC9B61C844E90005F4104 /* Assets.xcassets */,
@@ -131,6 +189,44 @@
 				492DC9AB1C844E90005F4104 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		49A58CF71C8D2ED700082557 /* emojiTableView */ = {
+			isa = PBXGroup;
+			children = (
+				49A58CF81C8D2ED700082557 /* RegExCategories.h */,
+				49A58CF91C8D2ED700082557 /* RegExCategories.m */,
+				49A58CFA1C8D2ED700082557 /* TYTableViewCell.h */,
+				49A58CFB1C8D2ED700082557 /* TYTableViewCell.m */,
+			);
+			path = emojiTableView;
+			sourceTree = "<group>";
+		};
+		49B97FA21C87E5E300264BED /* TYAttributedLabel */ = {
+			isa = PBXGroup;
+			children = (
+				49B97FA31C87E5E300264BED /* NSMutableAttributedString+TY.h */,
+				49B97FA41C87E5E300264BED /* NSMutableAttributedString+TY.m */,
+				49B97FA51C87E5E300264BED /* TYAttributedLabel.h */,
+				49B97FA61C87E5E300264BED /* TYAttributedLabel.m */,
+				49B97FA71C87E5E300264BED /* TYDrawStorage.h */,
+				49B97FA81C87E5E300264BED /* TYDrawStorage.m */,
+				49B97FA91C87E5E300264BED /* TYImageCache.h */,
+				49B97FAA1C87E5E300264BED /* TYImageCache.m */,
+				49B97FAB1C87E5E300264BED /* TYImageStorage.h */,
+				49B97FAC1C87E5E300264BED /* TYImageStorage.m */,
+				49B97FAD1C87E5E300264BED /* TYLinkTextStorage.h */,
+				49B97FAE1C87E5E300264BED /* TYLinkTextStorage.m */,
+				49B97FAF1C87E5E300264BED /* TYTextContainer+Extended.m */,
+				49B97FB01C87E5E300264BED /* TYTextContainer.h */,
+				49B97FB11C87E5E300264BED /* TYTextContainer.m */,
+				49B97FB21C87E5E300264BED /* TYTextStorage.h */,
+				49B97FB31C87E5E300264BED /* TYTextStorage.m */,
+				49B97FB41C87E5E300264BED /* TYTextStorageProtocol.h */,
+				49B97FB51C87E5E300264BED /* TYViewStorage.h */,
+				49B97FB61C87E5E300264BED /* TYViewStorage.m */,
+			);
+			path = TYAttributedLabel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -190,13 +286,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49B97FCE1C881D5E00264BED /* emoji_001.png in Resources */,
+				49B97FCF1C881D5E00264BED /* emoji_002.png in Resources */,
 				492964AE1C85785A0023CFDE /* nv@2x.png in Resources */,
 				492964AB1C85785A0023CFDE /* add@2x.png in Resources */,
 				492964AD1C85785A0023CFDE /* delMini@2x.png in Resources */,
 				492964AF1C85785A0023CFDE /* nv@3x.png in Resources */,
 				492964AC1C85785A0023CFDE /* delete@2x.png in Resources */,
+				49B97FCB1C880FAD00264BED /* emoji_003.png in Resources */,
 				492DC9BA1C844E90005F4104 /* LaunchScreen.storyboard in Resources */,
 				492DC9B71C844E90005F4104 /* Assets.xcassets in Resources */,
+				497048BA1DC73D08006B603E /* 22222.png in Resources */,
+				497048BB1DC73D08006B603E /* 333.png in Resources */,
 				492DC9B51C844E90005F4104 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -208,11 +309,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49A58CFC1C8D2ED700082557 /* RegExCategories.m in Sources */,
+				49B97FB91C87E5E300264BED /* TYDrawStorage.m in Sources */,
+				49A58CFD1C8D2ED700082557 /* TYTableViewCell.m in Sources */,
 				492964B01C85785A0023CFDE /* MCCollectionView.m in Sources */,
 				492DC9B21C844E90005F4104 /* ViewController.m in Sources */,
+				49B97FBF1C87E5E300264BED /* TYTextStorage.m in Sources */,
+				49B97FBC1C87E5E300264BED /* TYLinkTextStorage.m in Sources */,
+				49B97FBB1C87E5E300264BED /* TYImageStorage.m in Sources */,
+				49B97FBD1C87E5E300264BED /* TYTextContainer+Extended.m in Sources */,
+				49B97FC01C87E5E300264BED /* TYViewStorage.m in Sources */,
 				492DC9AF1C844E90005F4104 /* AppDelegate.m in Sources */,
+				49B97FB81C87E5E300264BED /* TYAttributedLabel.m in Sources */,
+				49B97FBA1C87E5E300264BED /* TYImageCache.m in Sources */,
+				49B97FBE1C87E5E300264BED /* TYTextContainer.m in Sources */,
+				49B97FB71C87E5E300264BED /* NSMutableAttributedString+TY.m in Sources */,
 				492964B11C85785A0023CFDE /* CellModel.m in Sources */,
 				492964B21C85785A0023CFDE /* MCCollectionViewCell.m in Sources */,
+				49A58D001C8D46EF00082557 /* MCShapeView.m in Sources */,
 				492DC9AC1C844E90005F4104 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -35,7 +35,7 @@
 }
 @property (nonatomic, assign) id <MCCollectionViewDelegate> delegate;
 @property (nonatomic, strong) NSMutableArray            *dataArray;
-@property (nonatomic, assign) CGPoint          originPoint;
+//@property (nonatomic, assign) CGPoint          originPoint;
 
 -(instancetype)initWithFrame:(CGRect)frame
                   dataSource:(NSArray *)array;
